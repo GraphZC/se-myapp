@@ -12,7 +12,7 @@ public class Cat {
     }
 
     public void sayHello() {
-        System.out.println("Meow, my name is " + name + ", I'm " + age + " years old, and I'm " + color + ".");
+        System.out.println("Meowww, my name is " + name + ", I'm " + age + " years old, and I'm " + color + ".");
     }
 
     public void setName(String name) {
